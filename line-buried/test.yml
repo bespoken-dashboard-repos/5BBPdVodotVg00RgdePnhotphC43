@@ -1,0 +1,5 @@
+---
+  - test : Test 1
+  - $DIAL :
+    - prompt : welcome to new test
+    - set finishOnPhrase : what can I help you with?
